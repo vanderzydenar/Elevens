@@ -44,8 +44,8 @@ user_names = {
 	"garrett" => "hansengb",
 	"brady" => "crowsonbf",
 	"jackw" => "JackWiegman",
-	"connor" => "connordoane",
-	"connor" => "rauschercd"
+	"connord" => "connordoane",
+	"connorr" => "rauschercd"
 
 }
 
